@@ -3,5 +3,5 @@
 <h3 align="center"> Proyecto CatPhotoApp del curso Responsive Web Design dado por freecodecamp.org</h3>
 
 <p align="left">
-    <img src="https://img.shields.io/badge/En%20Proceso-lima?label=Status">
+    <img src="https://img.shields.io/badge/Finalizado-lima?label=Status">
 </p>
